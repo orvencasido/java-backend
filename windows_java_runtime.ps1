@@ -1,5 +1,5 @@
 param (
-    [string]$JavaFile = "Day_Three/Day_Three_Challenge_Two_NumberGuessingGame.java"
+    [string]$JavaFile = "Day_Four_Part_Two_Exercise_One.java"
 )
 
 $JavaFile = $JavaFile.Replace("\", "/")
