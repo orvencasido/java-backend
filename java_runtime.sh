@@ -2,7 +2,7 @@
 
 set -e
 
-JAVA_FILE="${1:-Day_Three/Day_Three_Challenge_Two_NumberGuessingGame.java}"
+JAVA_FILE="${1:-Day_Seven_Project.java}"
 
 docker run --rm -it \
   -v "$PWD":/app \
